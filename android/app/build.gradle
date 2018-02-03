@@ -102,7 +102,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.haulfish"
+        applicationId "com.rnhaultest"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
